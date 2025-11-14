@@ -45,13 +45,13 @@ Contains detailed employee information such as demographics, job details, perfor
 ---
 
 ## 🖼️ Screenshots  
-*((https://github.com/ChamodiHansika/HR-Analytics-Dashboard/blob/main/HR_Analytics_Imge.png))*
+*(https://github.com/ChamodiHansika/HR-Analytics-Dashboard/blob/main/HR_Analytics_Imge.png)*
 
 ---
 
 ## 🌐 Dashboard Link  
-[🔗 View Power BI Dashboard]([https://app.powerbi.com/...](https://github.com/ChamodiHansika/HR-Analytics-Dashboard/blob/main/HR%20Analytics.pbix))  
-*(Replace this with your published Power BI dashboard link or embed code)*
+[🔗 View Power BI Dashboard]  
+*([Replace this with your published Power BI dashboard link or embed code](https://github.com/ChamodiHansika/HR-Analytics-Dashboard/blob/main/HR%20Analytics.pbix))*
 
 ---
 
