@@ -45,7 +45,7 @@ Contains detailed employee information such as demographics, job details, perfor
 ---
 
 ## 🖼️ Screenshots  
-*(Add your dashboard images here)*
+*((https://github.com/ChamodiHansika/HR-Analytics-Dashboard/blob/main/HR_Analytics_Imge.png))*
 
 ![HR Overview](./images/hr-overview.png)  
 ![Performance Analysis](./images/performance-dashboard.png)  
